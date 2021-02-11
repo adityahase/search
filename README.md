@@ -1,2 +1,2 @@
-# search
+# Search
 A Semantic Search Framework
